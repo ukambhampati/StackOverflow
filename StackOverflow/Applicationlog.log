@@ -1,0 +1,10 @@
+2022-Feb-22 04:57:39,736 [main] functions.Log 
+  DEBUG testing
+2022-Feb-22 04:59:17,215 [main] functions.Log 
+  DEBUG testing
+2022-Feb-22 04:59:17,216 [main] functions.Log 
+  ERROR this is error
+2022-Feb-22 04:59:17,217 [main] functions.Log 
+  FATAL this is fatal
+2022-Feb-22 04:59:17,217 [main] functions.Log 
+  WARN  this is warning

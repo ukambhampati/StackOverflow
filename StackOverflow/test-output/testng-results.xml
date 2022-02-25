@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="30721" started-at="2022-02-25T10:02:03Z" finished-at="2022-02-25T10:02:34Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="30721" started-at="2022-02-25T10:02:03Z" finished-at="2022-02-25T10:02:34Z">
+      <class name="scripts.TC_FindUserDetailsWithMaxUserEdits">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:scripts.TC_FindUserDetailsWithMaxUserEdits@192b07fd]" name="setUp" is-config="true" duration-ms="4560" started-at="2022-02-25T10:02:03Z" finished-at="2022-02-25T10:02:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://stackoverflow.com/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="findUserDetails(int)[pri:0, instance:scripts.TC_FindUserDetailsWithMaxUserEdits@192b07fd]" name="findUserDetails" duration-ms="25216" started-at="2022-02-25T10:02:08Z" finished-at="2022-02-25T10:02:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- findUserDetails -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:scripts.TC_FindUserDetailsWithMaxUserEdits@192b07fd]" name="tearDown" is-config="true" duration-ms="902" started-at="2022-02-25T10:02:33Z" finished-at="2022-02-25T10:02:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- scripts.TC_FindUserDetailsWithMaxUserEdits -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

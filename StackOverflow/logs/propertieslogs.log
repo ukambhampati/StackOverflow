@@ -1,0 +1,25 @@
+[INFO ] 2022-02-25 15:32:09.743 [main] Log - ****************************************************************************************
+[INFO ] 2022-02-25 15:32:09.746 [main] Log - ****************************************************************************************
+[INFO ] 2022-02-25 15:32:09.746 [main] Log - $$$$$$$$$$$$$$$$$$$$$                 TC_FindUserDetailsWithMaxUserEdits       $$$$$$$$$$$$$$$$$$$$$$$$$
+[INFO ] 2022-02-25 15:32:09.746 [main] Log - ****************************************************************************************
+[INFO ] 2022-02-25 15:32:09.747 [main] Log - ****************************************************************************************
+[INFO ] 2022-02-25 15:32:09.791 [main] Log - Started checking if Accept all cookies button displayed
+[INFO ] 2022-02-25 15:32:09.907 [main] Log - Accept All cookies message is displayed
+[INFO ] 2022-02-25 15:32:10.003 [main] Log - clicked on accept all cookies button
+[INFO ] 2022-02-25 15:32:10.488 [main] Log - Checking whether left menu bar is expanded/collapsed
+[INFO ] 2022-02-25 15:32:10.606 [main] Log - Expanded Left menu bar
+[INFO ] 2022-02-25 15:32:11.172 [main] Log - Checking whether left menu bar is expanded/collapsed
+[INFO ] 2022-02-25 15:32:11.173 [main] Log - Left menu bar is already expanded
+[INFO ] 2022-02-25 15:32:21.066 [main] Log - No Alerts after refresh
+[INFO ] 2022-02-25 15:32:21.066 [main] Log - Browser refreshed
+[INFO ] 2022-02-25 15:32:21.067 [main] Log - Clicked on browser questions menu
+[INFO ] 2022-02-25 15:32:22.518 [main] Log - Clicked on users menu
+[INFO ] 2022-02-25 15:32:22.814 [main] Log - Started Navigation to required pagenumber 2 in Users form
+[INFO ] 2022-02-25 15:32:31.331 [main] Log - Navigated to Required pagenumber in Users
+[INFO ] 2022-02-25 15:32:33.421 [main] Log - $$$$$$$$$$$$$$$$$$$$$$$ User details with max edits are as follows $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+[INFO ] 2022-02-25 15:32:33.521 [main] Log - $$$$$$$$$$$$$$$ User Name Zoe in Location ? is having 50 edits$$$$$$$$$$$$$$$$$$
+[INFO ] 2022-02-25 15:32:33.794 [main] Log - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+[INFO ] 2022-02-25 15:32:33.794 [main] Log - X
+[INFO ] 2022-02-25 15:32:33.795 [main] Log - X
+[INFO ] 2022-02-25 15:32:33.795 [main] Log - X
+[INFO ] 2022-02-25 15:32:33.795 [main] Log - X
