@@ -5,7 +5,8 @@
 
 jobs:
 - job: 'ParallelTesting'
-  pool: 'ubuntu-latest'
+  pool: 'Azure Pipelines'
+  
   strategy:
     parallel: 3
 
