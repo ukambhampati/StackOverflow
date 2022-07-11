@@ -7,9 +7,6 @@ jobs:
 - job: 'ParallelTesting'
   pool: 'Azure Pipelines'
   
-  strategy:
-    parallel: 3
-
   steps:
   - task: Maven@3
     inputs:
